@@ -561,7 +561,7 @@ Ensure the following tools are installed on your system:
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Enterprise-Multi-Region-E-Commerce-Platform-on-AWS.git
+git clone https://github.com/subhambej-devops/Enterprise-Multi-Region-E-Commerce-Platform-on-AWS.git
 
 cd Enterprise-Multi-Region-E-Commerce-Platform-on-AWS
 ```
@@ -870,7 +870,7 @@ Made with ❤️ by **Subham Bej**
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/YOUR_GITHUB_USERNAME?v=4" width="150" style="border-radius:50%;" alt="Subham Bej"/>
+<img src="https://avatars.githubusercontent.com/subhambej-devops?v=4" width="150" style="border-radius:50%;" alt="Subham Bej"/>
 
 # **Subham Bej**
 
@@ -885,7 +885,7 @@ Building scalable, secure, and cloud-native infrastructure using modern DevOps p
 <p align="center">
 
 <a href="https://github.com/subhambej-devops">
-<img src="https://img.shields.io/badge/GitHub-hsubham1853-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-subhambej--devops-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/subham-bej-devops/">
